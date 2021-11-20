@@ -1,3 +1,0 @@
-/Users/a.ershkov/Documents/projects/EventBusProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/a.ershkov/Documents/projects/EventBusProject/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/a.ershkov/Documents/projects/EventBusProject/cmake-build-debug/CMakeFiles/EventBus.dir
